@@ -1,0 +1,156 @@
+[
+  {
+    "questionText": "Qu'est-ce que la cybersécurité ?",
+    "difficulty": "Débutant",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "La protection des systèmes informatiques contre les attaques", "correct": true},
+      {"text": "La création de programmes informatiques", "correct": false},
+      {"text": "L'analyse des données massives", "correct": false},
+      {"text": "Le développement de sites web", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'un firewall ?",
+    "difficulty": "Débutant",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un dispositif de sécurité réseau", "correct": true},
+      {"text": "Un logiciel de traitement de données", "correct": false},
+      {"text": "Une méthode de cryptage de données", "correct": false},
+      {"text": "Une technologie de stockage de données", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Quel est l'objectif principal de la cybersécurité ?",
+    "difficulty": "Débutant",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Protéger les données personnelles", "correct": true},
+      {"text": "Accélérer les performances des ordinateurs", "correct": false},
+      {"text": "Créer des logiciels innovants", "correct": false},
+      {"text": "Optimiser les réseaux sociaux", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'un mot de passe fort ?",
+    "difficulty": "Débutant",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un mot de passe long et complexe avec des caractères spéciaux", "correct": true},
+      {"text": "Un mot de passe court et simple à retenir", "correct": false},
+      {"text": "Un mot de passe basé sur des informations personnelles", "correct": false},
+      {"text": "Un mot de passe partagé avec d'autres utilisateurs", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Quelles sont les principales menaces de la cybersécurité ?",
+    "difficulty": "Débutant",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Les virus et les logiciels malveillants", "correct": true},
+      {"text": "Les publicités en ligne", "correct": false},
+      {"text": "Les mises à jour logicielles", "correct": false},
+      {"text": "Les réseaux sociaux", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que le Big Data ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "Le traitement des données massives", "correct": true},
+      {"text": "La protection des systèmes informatiques", "correct": false},
+      {"text": "L'analyse de la sécurité des réseaux", "correct": false},
+      {"text": "Le développement de sites web", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Quels sont les rôles d'un data scientist ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "Analyser et interpréter les données massives", "correct": true},
+      {"text": "Développer des logiciels pour les entreprises", "correct": false},
+      {"text": "Concevoir des sites web interactifs", "correct": false},
+      {"text": "Gérer les infrastructures de serveurs", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que Hadoop ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "Un framework open source pour le traitement des données massives", "correct": true},
+      {"text": "Une plateforme de cloud computing", "correct": false},
+      {"text": "Un langage de programmation pour les applications mobiles", "correct": false},
+      {"text": "Un protocole de communication pour les réseaux", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Quels sont les avantages du Big Data ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "Analyser et obtenir des informations précieuses à partir de grandes quantités de données", "correct": true},
+      {"text": "Assurer la sécurité des données sur les réseaux", "correct": false},
+      {"text": "Développer des applications mobiles performantes", "correct": false},
+      {"text": "Optimiser les processus de développement web", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Quelles sont les sources de données utilisées dans le Big Data ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "Données structurées et non structurées provenant de diverses sources", "correct": true},
+      {"text": "Données personnelles des utilisateurs de réseaux sociaux", "correct": false},
+      {"text": "Données stockées sur des serveurs locaux", "correct": false},
+      {"text": "Données générées par les publicités en ligne", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'un firewall ?",
+    "difficulty": "Intermédiaire",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un dispositif de sécurité réseau", "correct": true},
+      {"text": "Un logiciel de traitement de données", "correct": false},
+      {"text": "Une méthode de cryptage de données", "correct": false},
+      {"text": "Une technologie de stockage de données", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Quel est le rôle d'un data scientist ?",
+    "difficulty": "Intermédiaire",
+    "category": "BigData",
+    "answers": [
+      {"text": "Analyser et interpréter les données massives", "correct": true},
+      {"text": "Développer des logiciels pour les entreprises", "correct": false},
+      {"text": "Concevoir des sites web interactifs", "correct": false},
+      {"text": "Gérer les infrastructures de serveurs", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que le Hadoop ?",
+    "difficulty": "Expert",
+    "category": "BigData",
+    "answers": [
+      {"text": "Un framework open source pour le traitement des données massives", "correct": true},
+      {"text": "Une plateforme de cloud computing", "correct": false},
+      {"text": "Un langage de programmation pour les applications mobiles", "correct": false},
+      {"text": "Un protocole de communication pour les réseaux", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'un algorithme de chiffrement ?",
+    "difficulty": "Expert",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un algorithme qui transforme des données en un code secret", "correct": true},
+      {"text": "Un algorithme qui transforme des données en un code binaire", "correct": false},
+      {"text": "Un algorithme qui compresse les données", "correct": false},
+      {"text": "Un algorithme qui calcule les probabilités", "correct": false}
+    ]
+  }
+]
